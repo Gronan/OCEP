@@ -37,4 +37,5 @@
 /composer.phar
 
 #PHPStorm
-/.idea/
+/.idea/*
+
