@@ -37,5 +37,6 @@
 /composer.phar
 
 #PHPStorm
+/.idea
 /.idea/*
-
+/.idea/workspace.xml
